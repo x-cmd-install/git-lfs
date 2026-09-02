@@ -1,0 +1,61 @@
+about:
+  description: Git extension for versioning large files
+  license: NOASSERTION
+  homepage: https://git-lfs.com
+  head: f0bffc4
+  archived: false
+  latestVersion: v3.8.0
+  collectedAt: 2026-09-02T02:37:16Z
+timeline:
+  created: 2013-09-22
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-28
+popularity:
+  star: 14462
+  watcher: 468
+  fork: 2251
+  release: 96
+  contributor: 233
+  pullRequest: 320
+  issue: 3261
+language:
+  Go: 1514439
+  Shell: 991224
+  Makefile: 30851
+  Ruby: 14179
+  Inno Setup: 9061
+  Batchfile: 107
+totalLine: 2559861
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 11
+    openPR: 7
+    closedIssue: 2
+    openIssue: 4
+    commit: 17
+  last90d:
+    since: 2026-06-04
+    release: 1
+    mergedPR: 32
+    openPR: 9
+    closedIssue: 10
+    openIssue: 10
+    commit: 89
+  last180d:
+    since: 2026-03-06
+    release: 1
+    mergedPR: 55
+    openPR: 13
+    closedIssue: 23
+    openIssue: 19
+    commit: 162
+  last360d:
+    since: 2025-09-07
+    release: 2
+    mergedPR: 92
+    openPR: 15
+    closedIssue: 54
+    openIssue: 32
+    commit: 286

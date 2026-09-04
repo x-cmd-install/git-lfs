@@ -7,7 +7,7 @@ about:
   head: f0bffc4
   archived: false
   latestVersion: v3.8.0
-  collectedAt: 2026-09-04T19:19:30Z
+  collectedAt: 2026-09-04T21:13:35Z
 timeline:
   created: 2013-09-22
   lastCommit: 2026-09-02
@@ -85,6 +85,74 @@ total:
   openIssue: 443
   commit: 9790
 ---
+path: /home/runner/.x-repo/github.com/git-lfs/git-lfs
+collectedAt: 2026-09-04T21:13:37Z
+loc:
+  Go:
+    code: 41564
+    comments: 5232
+    blanks: 8383
+    files: 290
+  Sh:
+    code: 24335
+    comments: 2433
+    blanks: 7019
+    files: 115
+  AsciiDoc:
+    code: 2992
+    comments: 0
+    blanks: 658
+    files: 36
+  Makefile:
+    code: 512
+    comments: 231
+    blanks: 90
+    files: 2
+  Ruby:
+    code: 443
+    comments: 60
+    blanks: 47
+    files: 6
+  Bash:
+    code: 405
+    comments: 116
+    blanks: 97
+    files: 4
+  Json:
+    code: 315
+    comments: 0
+    blanks: 4
+    files: 9
+  Zsh:
+    code: 146
+    comments: 36
+    blanks: 30
+    files: 1
+  Fish:
+    code: 140
+    comments: 49
+    blanks: 46
+    files: 1
+  RPMSpecfile:
+    code: 72
+    comments: 8
+    blanks: 20
+    files: 1
+  Batch:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5937
+    blanks: 1647
+    files: 31
+total:
+  code: 71203
+  comments: 14201
+  blanks: 18050
+  files: 497
 ---
 date: "2026-08-24"
 repo:

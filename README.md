@@ -12,6 +12,28 @@ Git extension for versioning large files
 x install git-lfs
 ```
 
+## Code insight
+
+Total: **70,925** lines of code across **449** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 41,564 | 5,232 | 8,383 | 290 |
+| Sh | 24,335 | 2,433 | 7,019 | 115 |
+| AsciiDoc | 2,992 | 0 | 658 | 36 |
+| Makefile | 512 | 231 | 90 | 2 |
+| Ruby | 443 | 60 | 47 | 6 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.5 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/git-lfs/git-lfs>
@@ -23,6 +45,25 @@ x install git-lfs
 - **Latest**: `v3.8.0` (2026-08-28)
 - **Last commit**: 2026-09-02
 - **Assets in release**: 20
+
+## Popularity
+
+- **Stars**: 14,486 · **Forks**: 2,252 · **Open issues**: 3,261 · **Contributors**: 233
+
+## Totals (cumulative)
+
+- **Releases**: 96 · **Merged PRs**: 2101 · **Open PRs**: 34 · **Closed issues**: 2818 · **Open issues**: 443 · **Commits**: 9790
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 10 | 5 | 4 | 1 | 16 |
+| last60d | 2026-07-12 | 1 | 16 | 8 | 6 | 7 | 38 |
+| 90d | 2026-06-12 | 1 | 26 | 9 | 12 | 9 | 75 |
+| last180d | 2026-03-14 | 1 | 55 | 12 | 21 | 17 | 156 |
+| 360d | 2025-09-15 | 2 | 91 | 15 | 52 | 29 | 279 |
+| last720d | 2024-09-20 | 5 | 157 | 21 | 113 | 87 | 799 |
 
 ## Release assets
 
@@ -49,43 +90,24 @@ x install git-lfs
 | [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/hashes.asc) | 22.7 KiB | `other` |
 | [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/sha256sums.asc) | 2.6 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 14,486 · **Forks**: 2,252 · **Open issues**: 3,261 · **Contributors**: 233
+Reported by **236** distros on [repology.org](https://repology.org/project/git-lfs). **30** are ✅ on the latest upstream release, **176** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 96 · **Merged PRs**: 2101 · **Open PRs**: 34 · **Closed issues**: 2818 · **Open issues**: 443 · **Commits**: 9790
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 10 | 5 | 4 | 1 | 16 |
-| 90d | 2026-06-12 | 1 | 26 | 9 | 12 | 9 | 75 |
-| 360d | 2025-09-15 | 2 | 91 | 15 | 52 | 29 | 279 |
-
-## Code size
-
-Total: **70,925** lines of code across **449** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 41,564 | 5,232 | 8,383 | 290 |
-| Sh | 24,335 | 2,433 | 7,019 | 115 |
-| AsciiDoc | 2,992 | 0 | 658 | 36 |
-| Makefile | 512 | 231 | 90 | 2 |
-| Ruby | 443 | 60 | 47 | 6 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.5 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.8.0` | ✅ latest |
+| Debian 14 | `3.8.0` | ✅ latest |
+| Debian 13 | `3.6.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.7.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.4.1` | ⚠️ outdated |
+| Arch | `3.8.0` | ✅ latest |
+| Homebrew | `3.8.0` | ✅ latest |
+| Fedora rawhide | `3.7.1` | ⚠️ outdated |
+| Nix unstable | `3.7.1` | ⚠️ outdated |
+| Void | `3.7.1` | ⚠️ outdated |
+| Alpine edge | `3.7.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.8.0` | ✅ latest |
 
 ## Improve this data
 
@@ -96,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:48:57Z._

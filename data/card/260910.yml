@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.8.0"
   latestRelease: "v3.8.0"
   latestPrerelease: "v1.5.2-go1.8beta1"
-  collectedAt: 2026-09-10T20:48:44Z
+  collectedAt: 2026-09-10T22:56:25Z
 timeline:
   created: 2013-09-22
   lastCommit: 2026-09-02
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-28
   lastPrerelease: 2016-12-01
 popularity:
-  star: 14486
+  star: 14487
   watcher: 469
-  fork: 2252
+  fork: 2253
   release: 96
   contributor: 233
   pullRequest: 2421
@@ -88,7 +88,7 @@ total:
   commit: 9790
 ---
 path: /home/runner/.x-repo/github.com/git-lfs/git-lfs
-collectedAt: 2026-09-10T20:48:50Z
+collectedAt: 2026-09-10T22:56:33Z
 loc:
   Go:
     code: 41564

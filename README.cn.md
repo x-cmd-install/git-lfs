@@ -4,7 +4,7 @@
 
 Git extension for versioning large files
 
-![git-lfs](https://repo.x-cmd.io/git-lfs.svg)
+![git-lfs](https://repo.x-cmd.io/git-lfs.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,35 @@ x install git-lfs
 - **最新版本**: `v3.8.0` (2026-08-28)
 - **最近提交**: 2026-09-02
 - **Release 含资产**: 20 个
-- **发布时间**: 2026-08-28T00:23:08Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [git-lfs-darwin-amd64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-amd64-v3.8.0.zip) | 5.9 MiB | `native/darwin/x64` |
+| [git-lfs-darwin-arm64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-arm64-v3.8.0.zip) | 5.3 MiB | `native/darwin/arm64` |
+| [git-lfs-freebsd-386-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-freebsd-386-v3.8.0.tar.gz) | 5.4 MiB | `native/unknown` |
+| [git-lfs-freebsd-amd64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-freebsd-amd64-v3.8.0.tar.gz) | 5.6 MiB | `native/linux/x64` |
+| [git-lfs-linux-386-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-386-v3.8.0.tar.gz) | 5.5 MiB | `native/unknown` |
+| [git-lfs-linux-amd64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-amd64-v3.8.0.tar.gz) | 5.6 MiB | `native/linux/x64` |
+| [git-lfs-linux-arm-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-arm-v3.8.0.tar.gz) | 5.4 MiB | `native/linux/arm` |
+| [git-lfs-linux-arm64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-arm64-v3.8.0.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [git-lfs-linux-loong64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-loong64-v3.8.0.tar.gz) | 5.4 MiB | `native/unknown` |
+| [git-lfs-linux-ppc64le-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-ppc64le-v3.8.0.tar.gz) | 5.2 MiB | `native/unknown` |
+| [git-lfs-linux-riscv64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-riscv64-v3.8.0.tar.gz) | 5.3 MiB | `native/linux/riscv64` |
+| [git-lfs-linux-s390x-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-s390x-v3.8.0.tar.gz) | 5.5 MiB | `native/unknown` |
+| [git-lfs-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-v3.8.0.tar.gz) | 731.4 KiB | `native/unknown` |
+| [git-lfs-vendor-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-vendor-v3.8.0.tar.gz) | 3.4 MiB | `native/unknown` |
+| [git-lfs-windows-386-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-386-v3.8.0.zip) | 5.5 MiB | `native/win/x64` |
+| [git-lfs-windows-amd64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-amd64-v3.8.0.zip) | 5.6 MiB | `native/win/x64` |
+| [git-lfs-windows-arm64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-arm64-v3.8.0.zip) | 5.0 MiB | `native/win/arm64` |
+| [git-lfs-windows-v3.8.0.exe](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-v3.8.0.exe) | 12.6 MiB | `native/win/x64` |
+| [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/hashes.asc) | 22.7 KiB | `other` |
+| [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/sha256sums.asc) | 2.6 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 14,484 · **Fork**: 2,252 · **开放 issue**: 3,261 · **贡献者**: 233
+- **Star**: 14,486 · **Fork**: 2,252 · **开放 issue**: 3,261 · **贡献者**: 233
 
 ## 累计统计
 
@@ -72,4 +96,4 @@ git-lfs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:58:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:06Z._

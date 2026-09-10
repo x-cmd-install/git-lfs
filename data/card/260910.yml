@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.8.0"
   latestRelease: "v3.8.0"
   latestPrerelease: "v1.5.2-go1.8beta1"
-  collectedAt: 2026-09-10T16:39:55Z
+  collectedAt: 2026-09-10T20:48:44Z
 timeline:
   created: 2013-09-22
   lastCommit: 2026-09-02
@@ -88,7 +88,7 @@ total:
   commit: 9790
 ---
 path: /home/runner/.x-repo/github.com/git-lfs/git-lfs
-collectedAt: 2026-09-10T16:40:00Z
+collectedAt: 2026-09-10T20:48:50Z
 loc:
   Go:
     code: 41564

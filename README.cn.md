@@ -4,7 +4,7 @@
 
 Git extension for versioning large files
 
-![git-lfs](https://repo.x-cmd.io/git-lfs.svg?lang=zh)
+[![x-cmd/install — git-lfs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/git-lfs.svg?lang=zh)](https://x-cmd.com/install/git-lfs)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install git-lfs
 
 ## 流行度
 
-- **Star**: 14,500 · **Fork**: 2,260 · **开放 issue**: 3,263 · **贡献者**: 233
+- **Star**: 14,506 · **Fork**: 2,260 · **开放 issue**: 3,263 · **贡献者**: 233
 
 ## 累计统计
 
-- **发布数**: 96 · **已合并 PR**: 2101 · **开放 PR**: 35 · **已关闭 issue**: 2819 · **开放 issue**: 444 · **提交数**: 9790
+- **发布数**: 96 · **已合并 PR**: 2101 · **开放 PR**: 36 · **已关闭 issue**: 2819 · **开放 issue**: 444 · **提交数**: 9790
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 10 | 1 | 3 | 2 | 14 |
-| last60d | 2026-07-20 | 1 | 15 | 8 | 5 | 8 | 34 |
-| 90d | 2026-06-20 | 1 | 26 | 9 | 12 | 10 | 63 |
-| last180d | 2026-03-22 | 1 | 51 | 13 | 22 | 16 | 156 |
-| 360d | 2025-09-23 | 2 | 90 | 15 | 51 | 30 | 274 |
-| last720d | 2024-09-28 | 5 | 155 | 22 | 114 | 88 | 796 |
+| 30d | 2026-08-21 | 1 | 10 | 2 | 2 | 2 | 14 |
+| last60d | 2026-07-22 | 1 | 15 | 9 | 4 | 8 | 34 |
+| 90d | 2026-06-22 | 1 | 26 | 10 | 12 | 10 | 63 |
+| last180d | 2026-03-24 | 1 | 50 | 14 | 22 | 16 | 156 |
+| 360d | 2025-09-25 | 2 | 90 | 16 | 50 | 30 | 274 |
+| last720d | 2024-09-30 | 5 | 155 | 23 | 114 | 88 | 795 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ git-lfs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:56:33Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:10:52Z._

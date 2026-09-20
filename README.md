@@ -4,7 +4,7 @@
 
 Git extension for versioning large files
 
-![git-lfs](https://repo.x-cmd.io/git-lfs.svg)
+[![x-cmd/install — git-lfs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/git-lfs.svg)](https://x-cmd.com/install/git-lfs)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,500 · **Forks**: 2,260 · **Open issues**: 3,263 · **Contributors**: 233
+- **Stars**: 14,506 · **Forks**: 2,260 · **Open issues**: 3,263 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2101 · **Open PRs**: 35 · **Closed issues**: 2819 · **Open issues**: 444 · **Commits**: 9790
+- **Releases**: 96 · **Merged PRs**: 2101 · **Open PRs**: 36 · **Closed issues**: 2819 · **Open issues**: 444 · **Commits**: 9790
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 10 | 1 | 3 | 2 | 14 |
-| last60d | 2026-07-20 | 1 | 15 | 8 | 5 | 8 | 34 |
-| 90d | 2026-06-20 | 1 | 26 | 9 | 12 | 10 | 63 |
-| last180d | 2026-03-22 | 1 | 51 | 13 | 22 | 16 | 156 |
-| 360d | 2025-09-23 | 2 | 90 | 15 | 51 | 30 | 274 |
-| last720d | 2024-09-28 | 5 | 155 | 22 | 114 | 88 | 796 |
+| 30d | 2026-08-21 | 1 | 10 | 2 | 2 | 2 | 14 |
+| last60d | 2026-07-22 | 1 | 15 | 9 | 4 | 8 | 34 |
+| 90d | 2026-06-22 | 1 | 26 | 10 | 12 | 10 | 63 |
+| last180d | 2026-03-24 | 1 | 50 | 14 | 22 | 16 | 156 |
+| 360d | 2025-09-25 | 2 | 90 | 16 | 50 | 30 | 274 |
+| last720d | 2024-09-30 | 5 | 155 | 23 | 114 | 88 | 795 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:56:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:10:51Z._

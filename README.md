@@ -4,7 +4,7 @@
 
 Git extension for versioning large files
 
-[![x-cmd/install — git-lfs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/git-lfs.svg)](https://x-cmd.com/install/git-lfs)
+[![x-cmd/install — git-lfs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/git-lfs.svg)](https://x-cmd.com/install/git-lfs)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install git-lfs
 
 ## Code insight
 
-Total: **70,925** lines of code across **449** files in the top 5 languages.
+Total: **70,980** lines of code across **453** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 41,564 | 5,232 | 8,383 | 290 |
-| Sh | 24,335 | 2,433 | 7,019 | 115 |
+| Sh | 24,426 | 2,444 | 7,056 | 119 |
 | AsciiDoc | 2,992 | 0 | 658 | 36 |
-| Makefile | 512 | 231 | 90 | 2 |
+| Makefile | 486 | 218 | 80 | 2 |
 | Ruby | 443 | 60 | 47 | 6 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.8.0` (2026-08-28)
-- **Last commit**: 2026-09-02
+- **Last commit**: 2026-09-22
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 14,511 · **Forks**: 2,261 · **Open issues**: 3,264 · **Contributors**: 233
+- **Stars**: 14,516 · **Forks**: 2,261 · **Open issues**: 3,264 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2101 · **Open PRs**: 36 · **Closed issues**: 2819 · **Open issues**: 445 · **Commits**: 9790
+- **Releases**: 96 · **Merged PRs**: 2102 · **Open PRs**: 35 · **Closed issues**: 2819 · **Open issues**: 445 · **Commits**: 9796
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 10 | 2 | 2 | 3 | 4 |
-| last60d | 2026-07-24 | 1 | 15 | 9 | 4 | 8 | 27 |
-| 90d | 2026-06-24 | 1 | 24 | 10 | 12 | 11 | 47 |
-| last180d | 2026-03-26 | 1 | 50 | 14 | 22 | 16 | 152 |
-| 360d | 2025-09-27 | 2 | 90 | 16 | 49 | 31 | 273 |
-| last720d | 2024-10-02 | 5 | 153 | 23 | 113 | 89 | 793 |
+| 30d | 2026-08-24 | 1 | 9 | 1 | 2 | 3 | 9 |
+| last60d | 2026-07-25 | 1 | 16 | 8 | 4 | 7 | 32 |
+| 90d | 2026-06-25 | 1 | 24 | 9 | 12 | 11 | 52 |
+| last180d | 2026-03-27 | 1 | 51 | 13 | 22 | 16 | 157 |
+| 360d | 2025-09-28 | 2 | 91 | 15 | 49 | 31 | 278 |
+| last720d | 2024-10-03 | 5 | 154 | 22 | 113 | 89 | 796 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:18:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:07:38Z._

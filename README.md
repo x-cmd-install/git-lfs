@@ -14,12 +14,12 @@ x install git-lfs
 
 ## Code insight
 
-Total: **70,980** lines of code across **453** files in the top 5 languages.
+Total: **70,983** lines of code across **453** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 41,564 | 5,232 | 8,383 | 290 |
-| Sh | 24,426 | 2,444 | 7,056 | 119 |
+| Sh | 24,429 | 2,446 | 7,058 | 119 |
 | AsciiDoc | 2,992 | 0 | 658 | 36 |
 | Makefile | 486 | 218 | 80 | 2 |
 | Ruby | 443 | 60 | 47 | 6 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.8.0` (2026-08-28)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-10-20
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 14,556 · **Forks**: 2,267 · **Open issues**: 3,268 · **Contributors**: 233
+- **Stars**: 14,557 · **Forks**: 2,270 · **Open issues**: 3,269 · **Contributors**: 233
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2102 · **Open PRs**: 45 · **Closed issues**: 2819 · **Open issues**: 449 · **Commits**: 9796
+- **Releases**: 96 · **Merged PRs**: 2103 · **Open PRs**: 47 · **Closed issues**: 2819 · **Open issues**: 450 · **Commits**: 9799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 10 | 0 | 5 | 0 |
-| last60d | 2026-08-21 | 1 | 11 | 11 | 3 | 7 | 13 |
-| 90d | 2026-07-22 | 1 | 16 | 18 | 5 | 13 | 38 |
-| last180d | 2026-04-23 | 1 | 41 | 22 | 16 | 18 | 123 |
-| 360d | 2025-10-25 | 1 | 89 | 25 | 49 | 33 | 263 |
-| last720d | 2024-10-30 | 5 | 147 | 31 | 109 | 83 | 743 |
+| 30d | 2026-09-21 | 0 | 1 | 12 | 0 | 5 | 2 |
+| last60d | 2026-08-22 | 1 | 12 | 13 | 3 | 8 | 15 |
+| 90d | 2026-07-23 | 1 | 17 | 20 | 5 | 13 | 40 |
+| last180d | 2026-04-24 | 1 | 42 | 24 | 16 | 19 | 125 |
+| 360d | 2025-10-26 | 1 | 90 | 27 | 49 | 34 | 265 |
+| last720d | 2024-10-31 | 5 | 148 | 33 | 109 | 84 | 746 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:01:20Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:52:06Z._

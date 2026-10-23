@@ -14,12 +14,12 @@ x install git-lfs
 
 ## Code insight
 
-Total: **70,983** lines of code across **453** files in the top 5 languages.
+Total: **72,363** lines of code across **455** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 41,564 | 5,232 | 8,383 | 290 |
-| Sh | 24,429 | 2,446 | 7,058 | 119 |
+| Go | 42,242 | 5,290 | 8,461 | 290 |
+| Sh | 25,131 | 2,616 | 7,357 | 121 |
 | AsciiDoc | 2,992 | 0 | 658 | 36 |
 | Makefile | 486 | 218 | 80 | 2 |
 | Ruby | 443 | 60 | 47 | 6 |
@@ -42,53 +42,72 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.8.0` (2026-08-28)
-- **Last commit**: 2026-10-20
+- **Latest**: `v3.8.1` (2026-10-22)
+- **Last commit**: 2026-10-22
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 14,556 · **Forks**: 2,273 · **Open issues**: 3,269 · **Contributors**: 233
+- **Stars**: 14,556 · **Forks**: 2,274 · **Open issues**: 3,269 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 2103 · **Open PRs**: 50 · **Closed issues**: 2819 · **Open issues**: 450 · **Commits**: 9799
+- **Releases**: 97 · **Merged PRs**: 2105 · **Open PRs**: 47 · **Closed issues**: 2819 · **Open issues**: 450 · **Commits**: 9836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 15 | 0 | 5 | 2 |
-| last60d | 2026-08-23 | 1 | 12 | 16 | 3 | 8 | 15 |
-| 90d | 2026-07-24 | 1 | 17 | 23 | 5 | 13 | 40 |
-| last180d | 2026-04-25 | 1 | 42 | 27 | 16 | 19 | 125 |
-| 360d | 2025-10-27 | 1 | 90 | 30 | 49 | 34 | 265 |
-| last720d | 2024-11-01 | 5 | 147 | 36 | 109 | 84 | 746 |
+| 30d | 2026-09-23 | 1 | 3 | 12 | 0 | 5 | 19 |
+| last60d | 2026-08-24 | 2 | 12 | 13 | 3 | 8 | 41 |
+| 90d | 2026-07-25 | 2 | 19 | 20 | 5 | 12 | 70 |
+| last180d | 2026-04-26 | 2 | 43 | 24 | 16 | 19 | 156 |
+| 360d | 2025-10-28 | 2 | 92 | 27 | 49 | 33 | 296 |
+| last720d | 2024-11-02 | 6 | 149 | 33 | 109 | 84 | 776 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [git-lfs-darwin-amd64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-amd64-v3.8.0.zip) | 5.9 MiB | `native/darwin/x64` |
-| [git-lfs-darwin-arm64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-darwin-arm64-v3.8.0.zip) | 5.3 MiB | `native/darwin/arm64` |
-| [git-lfs-freebsd-386-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-freebsd-386-v3.8.0.tar.gz) | 5.4 MiB | `native/unknown` |
-| [git-lfs-freebsd-amd64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-freebsd-amd64-v3.8.0.tar.gz) | 5.6 MiB | `native/linux/x64` |
-| [git-lfs-linux-386-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-386-v3.8.0.tar.gz) | 5.5 MiB | `native/unknown` |
-| [git-lfs-linux-amd64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-amd64-v3.8.0.tar.gz) | 5.6 MiB | `native/linux/x64` |
-| [git-lfs-linux-arm-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-arm-v3.8.0.tar.gz) | 5.4 MiB | `native/linux/arm` |
-| [git-lfs-linux-arm64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-arm64-v3.8.0.tar.gz) | 5.1 MiB | `native/linux/arm64` |
-| [git-lfs-linux-loong64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-loong64-v3.8.0.tar.gz) | 5.4 MiB | `native/unknown` |
-| [git-lfs-linux-ppc64le-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-ppc64le-v3.8.0.tar.gz) | 5.2 MiB | `native/unknown` |
-| [git-lfs-linux-riscv64-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-riscv64-v3.8.0.tar.gz) | 5.3 MiB | `native/linux/riscv64` |
-| [git-lfs-linux-s390x-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-s390x-v3.8.0.tar.gz) | 5.5 MiB | `native/unknown` |
-| [git-lfs-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-v3.8.0.tar.gz) | 731.4 KiB | `native/unknown` |
-| [git-lfs-vendor-v3.8.0.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-vendor-v3.8.0.tar.gz) | 3.4 MiB | `native/unknown` |
-| [git-lfs-windows-386-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-386-v3.8.0.zip) | 5.5 MiB | `native/win/x64` |
-| [git-lfs-windows-amd64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-amd64-v3.8.0.zip) | 5.6 MiB | `native/win/x64` |
-| [git-lfs-windows-arm64-v3.8.0.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-arm64-v3.8.0.zip) | 5.0 MiB | `native/win/arm64` |
-| [git-lfs-windows-v3.8.0.exe](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-windows-v3.8.0.exe) | 12.6 MiB | `native/win/x64` |
-| [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/hashes.asc) | 22.7 KiB | `other` |
-| [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/sha256sums.asc) | 2.6 KiB | `other` |
+| [git-lfs-darwin-amd64-v3.8.1.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-darwin-amd64-v3.8.1.zip) | 5.9 MiB | `native/darwin/x64` |
+| [git-lfs-darwin-arm64-v3.8.1.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-darwin-arm64-v3.8.1.zip) | 5.3 MiB | `native/darwin/arm64` |
+| [git-lfs-freebsd-386-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-freebsd-386-v3.8.1.tar.gz) | 5.4 MiB | `native/unknown` |
+| [git-lfs-freebsd-amd64-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-freebsd-amd64-v3.8.1.tar.gz) | 5.6 MiB | `native/linux/x64` |
+| [git-lfs-linux-386-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-386-v3.8.1.tar.gz) | 5.5 MiB | `native/unknown` |
+| [git-lfs-linux-amd64-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-amd64-v3.8.1.tar.gz) | 5.6 MiB | `native/linux/x64` |
+| [git-lfs-linux-arm-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-arm-v3.8.1.tar.gz) | 5.4 MiB | `native/linux/arm` |
+| [git-lfs-linux-arm64-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-arm64-v3.8.1.tar.gz) | 5.1 MiB | `native/linux/arm64` |
+| [git-lfs-linux-loong64-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-loong64-v3.8.1.tar.gz) | 5.4 MiB | `native/unknown` |
+| [git-lfs-linux-ppc64le-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-ppc64le-v3.8.1.tar.gz) | 5.2 MiB | `native/unknown` |
+| [git-lfs-linux-riscv64-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-riscv64-v3.8.1.tar.gz) | 5.3 MiB | `native/linux/riscv64` |
+| [git-lfs-linux-s390x-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-linux-s390x-v3.8.1.tar.gz) | 5.5 MiB | `native/unknown` |
+| [git-lfs-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-v3.8.1.tar.gz) | 745.4 KiB | `native/unknown` |
+| [git-lfs-vendor-v3.8.1.tar.gz](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-vendor-v3.8.1.tar.gz) | 3.5 MiB | `native/unknown` |
+| [git-lfs-windows-386-v3.8.1.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-windows-386-v3.8.1.zip) | 5.5 MiB | `native/win/x64` |
+| [git-lfs-windows-amd64-v3.8.1.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-windows-amd64-v3.8.1.zip) | 5.6 MiB | `native/win/x64` |
+| [git-lfs-windows-arm64-v3.8.1.zip](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-windows-arm64-v3.8.1.zip) | 5.0 MiB | `native/win/arm64` |
+| [git-lfs-windows-v3.8.1.exe](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/git-lfs-windows-v3.8.1.exe) | 12.6 MiB | `native/win/x64` |
+| [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/hashes.asc) | 22.7 KiB | `other` |
+| [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/sha256sums.asc) | 2.6 KiB | `other` |
+
+## Distribution status
+
+Reported by **238** distros on [repology.org](https://repology.org/project/git-lfs). **4** are ✅ on the latest upstream release, **203** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.8.0` | ⚠️ outdated |
+| Debian 14 | `3.8.0` | ⚠️ outdated |
+| Debian 13 | `3.6.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.7.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.4.1` | ⚠️ outdated |
+| Arch | `3.8.0` | ⚠️ outdated |
+| Homebrew | `3.8.1` | ✅ latest |
+| Fedora rawhide | `3.7.1` | ⚠️ outdated |
+| Nix unstable | `3.8.0` | ⚠️ outdated |
+| Void | `3.7.1` | ⚠️ outdated |
+| Alpine edge | `3.7.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.8.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -99,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:53:20Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:53:24Z._

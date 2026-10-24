@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.8.1` (2026-10-22)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 14,556 · **Forks**: 2,274 · **Open issues**: 3,269 · **Contributors**: 234
+- **Stars**: 14,559 · **Forks**: 2,275 · **Open issues**: 3,270 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2105 · **Open PRs**: 47 · **Closed issues**: 2819 · **Open issues**: 450 · **Commits**: 9836
+- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 46 · **Closed issues**: 2819 · **Open issues**: 451 · **Commits**: 9842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 3 | 12 | 0 | 5 | 19 |
-| last60d | 2026-08-24 | 2 | 12 | 13 | 3 | 8 | 41 |
-| 90d | 2026-07-25 | 2 | 19 | 20 | 5 | 12 | 70 |
-| last180d | 2026-04-26 | 2 | 43 | 24 | 16 | 19 | 156 |
-| 360d | 2025-10-28 | 2 | 92 | 27 | 49 | 33 | 296 |
-| last720d | 2024-11-02 | 6 | 149 | 33 | 109 | 84 | 776 |
+| 30d | 2026-09-24 | 1 | 5 | 11 | 0 | 6 | 21 |
+| last60d | 2026-08-25 | 2 | 13 | 12 | 3 | 9 | 43 |
+| 90d | 2026-07-26 | 2 | 21 | 19 | 5 | 13 | 72 |
+| last180d | 2026-04-27 | 2 | 44 | 23 | 16 | 19 | 158 |
+| 360d | 2025-10-29 | 2 | 94 | 26 | 48 | 34 | 298 |
+| last720d | 2024-11-03 | 6 | 151 | 32 | 109 | 85 | 782 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **238** distros on [repology.org](https://repology.org/project/git-lfs). **4** are ✅ on the latest upstream release, **203** are ⚠️ on an older version.
+Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **16** are ✅ on the latest upstream release, **193** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:53:24Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:46:16Z._

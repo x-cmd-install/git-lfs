@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,560 · **Forks**: 2,276 · **Open issues**: 3,270 · **Contributors**: 235
+- **Stars**: 14,561 · **Forks**: 2,278 · **Open issues**: 3,270 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 47 · **Closed issues**: 2819 · **Open issues**: 451 · **Commits**: 9842
+- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 48 · **Closed issues**: 2819 · **Open issues**: 451 · **Commits**: 9842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 5 | 12 | 0 | 6 | 21 |
-| last60d | 2026-08-26 | 2 | 12 | 13 | 3 | 9 | 43 |
-| 90d | 2026-07-27 | 2 | 21 | 20 | 5 | 13 | 72 |
-| last180d | 2026-04-28 | 2 | 44 | 24 | 15 | 19 | 158 |
-| 360d | 2025-10-30 | 2 | 94 | 27 | 48 | 34 | 298 |
-| last720d | 2024-11-04 | 6 | 150 | 33 | 108 | 84 | 782 |
+| 30d | 2026-09-26 | 1 | 5 | 13 | 0 | 6 | 19 |
+| last60d | 2026-08-27 | 2 | 11 | 14 | 2 | 9 | 32 |
+| 90d | 2026-07-28 | 2 | 21 | 21 | 5 | 13 | 65 |
+| last180d | 2026-04-29 | 2 | 44 | 25 | 15 | 19 | 149 |
+| 360d | 2025-10-31 | 2 | 94 | 28 | 48 | 34 | 287 |
+| last720d | 2024-11-05 | 6 | 149 | 34 | 108 | 84 | 770 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **21** are ✅ on the latest upstream release, **188** are ⚠️ on an older version.
+Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **25** are ✅ on the latest upstream release, **184** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:51:04Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:57:44Z._

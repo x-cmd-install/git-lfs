@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,561 · **Forks**: 2,278 · **Open issues**: 3,270 · **Contributors**: 235
+- **Stars**: 14,565 · **Forks**: 2,278 · **Open issues**: 3,271 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 48 · **Closed issues**: 2819 · **Open issues**: 451 · **Commits**: 9842
+- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 48 · **Closed issues**: 2820 · **Open issues**: 451 · **Commits**: 9842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 5 | 13 | 0 | 6 | 19 |
-| last60d | 2026-08-27 | 2 | 11 | 14 | 2 | 9 | 32 |
-| 90d | 2026-07-28 | 2 | 21 | 21 | 5 | 13 | 65 |
-| last180d | 2026-04-29 | 2 | 44 | 25 | 15 | 19 | 149 |
-| 360d | 2025-10-31 | 2 | 94 | 28 | 48 | 34 | 287 |
-| last720d | 2024-11-05 | 6 | 149 | 34 | 108 | 84 | 770 |
+| 30d | 2026-09-27 | 1 | 5 | 13 | 1 | 6 | 19 |
+| last60d | 2026-08-28 | 2 | 10 | 14 | 3 | 8 | 32 |
+| 90d | 2026-07-29 | 2 | 21 | 21 | 6 | 13 | 65 |
+| last180d | 2026-04-30 | 2 | 43 | 25 | 16 | 17 | 149 |
+| 360d | 2025-11-01 | 2 | 91 | 28 | 49 | 34 | 287 |
+| last720d | 2024-11-06 | 6 | 149 | 34 | 109 | 84 | 766 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **25** are ✅ on the latest upstream release, **184** are ⚠️ on an older version.
+Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **26** are ✅ on the latest upstream release, **183** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -107,7 +107,7 @@ Reported by **239** distros on [repology.org](https://repology.org/project/git-l
 | Nix unstable | `3.8.0` | ⚠️ outdated |
 | Void | `3.7.1` | ⚠️ outdated |
 | Alpine edge | `3.7.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.8.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.8.1` | ✅ latest |
 
 ## Improve this data
 
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:57:44Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:10:03Z._

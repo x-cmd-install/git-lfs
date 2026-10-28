@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,565 · **Forks**: 2,278 · **Open issues**: 3,271 · **Contributors**: 235
+- **Stars**: 14,566 · **Forks**: 2,278 · **Open issues**: 3,271 · **Contributors**: 235
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 5 | 13 | 1 | 6 | 19 |
-| last60d | 2026-08-28 | 2 | 10 | 14 | 3 | 8 | 32 |
-| 90d | 2026-07-29 | 2 | 21 | 21 | 6 | 13 | 65 |
-| last180d | 2026-04-30 | 2 | 43 | 25 | 16 | 17 | 149 |
-| 360d | 2025-11-01 | 2 | 91 | 28 | 49 | 34 | 287 |
-| last720d | 2024-11-06 | 6 | 149 | 34 | 109 | 84 | 766 |
+| 30d | 2026-09-28 | 1 | 5 | 13 | 1 | 5 | 19 |
+| last60d | 2026-08-29 | 1 | 10 | 14 | 3 | 8 | 32 |
+| 90d | 2026-07-30 | 2 | 21 | 21 | 6 | 11 | 65 |
+| last180d | 2026-05-01 | 2 | 42 | 25 | 16 | 17 | 149 |
+| 360d | 2025-11-02 | 2 | 90 | 28 | 49 | 34 | 287 |
+| last720d | 2024-11-07 | 6 | 149 | 34 | 108 | 84 | 763 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **26** are ✅ on the latest upstream release, **183** are ⚠️ on an older version.
+Reported by **240** distros on [repology.org](https://repology.org/project/git-lfs). **25** are ✅ on the latest upstream release, **185** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:10:03Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:53:39Z._

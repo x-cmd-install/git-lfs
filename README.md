@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,569 · **Forks**: 2,278 · **Open issues**: 3,271 · **Contributors**: 235
+- **Stars**: 14,570 · **Forks**: 2,278 · **Open issues**: 3,271 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 48 · **Closed issues**: 2820 · **Open issues**: 451 · **Commits**: 9842
+- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 50 · **Closed issues**: 2820 · **Open issues**: 451 · **Commits**: 9842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 5 | 13 | 1 | 5 | 19 |
-| last60d | 2026-08-30 | 1 | 10 | 14 | 3 | 8 | 32 |
-| 90d | 2026-07-31 | 2 | 21 | 21 | 6 | 11 | 65 |
-| last180d | 2026-05-02 | 2 | 42 | 25 | 16 | 17 | 149 |
-| 360d | 2025-11-03 | 2 | 89 | 28 | 49 | 34 | 287 |
-| last720d | 2024-11-08 | 6 | 149 | 34 | 108 | 84 | 763 |
+| 30d | 2026-09-30 | 1 | 5 | 15 | 1 | 5 | 19 |
+| last60d | 2026-08-31 | 1 | 10 | 16 | 3 | 8 | 32 |
+| 90d | 2026-08-01 | 2 | 17 | 23 | 6 | 11 | 65 |
+| last180d | 2026-05-03 | 2 | 42 | 27 | 16 | 17 | 149 |
+| 360d | 2025-11-04 | 2 | 89 | 30 | 49 | 34 | 287 |
+| last720d | 2024-11-09 | 6 | 149 | 36 | 108 | 84 | 763 |
 
 ## Release assets
 
@@ -92,11 +92,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **241** distros on [repology.org](https://repology.org/project/git-lfs). **30** are ✅ on the latest upstream release, **180** are ⚠️ on an older version.
+Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **31** are ✅ on the latest upstream release, **178** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `3.8.0` | 🪦 legacy |
+| Debian unstable | `3.8.1` | ✅ latest |
 | Debian 14 | `3.8.0` | ⚠️ outdated |
 | Debian 13 | `3.6.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.7.1` | ⚠️ outdated |
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:58:02Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:57:43Z._

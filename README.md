@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 5 | 15 | 1 | 5 | 19 |
-| last60d | 2026-08-31 | 1 | 10 | 16 | 3 | 8 | 32 |
-| 90d | 2026-08-01 | 2 | 17 | 23 | 6 | 11 | 65 |
-| last180d | 2026-05-03 | 2 | 42 | 27 | 16 | 17 | 149 |
-| 360d | 2025-11-04 | 2 | 89 | 30 | 49 | 34 | 287 |
-| last720d | 2024-11-09 | 6 | 149 | 36 | 108 | 84 | 763 |
+| 30d | 2026-10-01 | 1 | 3 | 13 | 1 | 5 | 19 |
+| last60d | 2026-09-01 | 1 | 6 | 16 | 3 | 8 | 32 |
+| 90d | 2026-08-02 | 2 | 17 | 23 | 6 | 11 | 65 |
+| last180d | 2026-05-04 | 2 | 42 | 27 | 16 | 17 | 149 |
+| 360d | 2025-11-05 | 2 | 89 | 30 | 49 | 34 | 287 |
+| last720d | 2024-11-10 | 6 | 149 | 36 | 108 | 84 | 763 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **31** are ✅ on the latest upstream release, **178** are ⚠️ on an older version.
+Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **32** are ✅ on the latest upstream release, **177** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:57:43Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:45:22Z._

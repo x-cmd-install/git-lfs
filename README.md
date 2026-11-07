@@ -14,14 +14,14 @@ x install git-lfs
 
 ## Code insight
 
-Total: **72,363** lines of code across **455** files in the top 5 languages.
+Total: **72,406** lines of code across **457** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 42,242 | 5,290 | 8,461 | 290 |
-| Sh | 25,131 | 2,616 | 7,357 | 121 |
+| Go | 42,257 | 5,292 | 8,466 | 291 |
+| Sh | 25,158 | 2,623 | 7,367 | 122 |
 | AsciiDoc | 2,992 | 0 | 658 | 36 |
-| Makefile | 486 | 218 | 80 | 2 |
+| Makefile | 487 | 218 | 80 | 2 |
 | Ruby | 443 | 60 | 47 | 6 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.8.1` (2026-10-22)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-06
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 14,579 · **Forks**: 2,282 · **Open issues**: 3,274 · **Contributors**: 235
+- **Stars**: 14,580 · **Forks**: 2,283 · **Open issues**: 3,274 · **Contributors**: 236
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2107 · **Open PRs**: 54 · **Closed issues**: 2821 · **Open issues**: 453 · **Commits**: 9842
+- **Releases**: 97 · **Merged PRs**: 2108 · **Open PRs**: 54 · **Closed issues**: 2821 · **Open issues**: 453 · **Commits**: 9853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 3 | 17 | 1 | 5 | 17 |
-| last60d | 2026-09-07 | 1 | 6 | 20 | 2 | 10 | 28 |
-| 90d | 2026-08-08 | 2 | 17 | 27 | 6 | 11 | 56 |
-| last180d | 2026-05-10 | 2 | 42 | 31 | 15 | 19 | 142 |
-| 360d | 2025-11-11 | 2 | 87 | 34 | 49 | 36 | 286 |
-| last720d | 2024-11-16 | 6 | 148 | 40 | 108 | 86 | 751 |
+| 30d | 2026-10-08 | 1 | 4 | 16 | 1 | 5 | 26 |
+| last60d | 2026-09-08 | 1 | 7 | 20 | 2 | 10 | 37 |
+| 90d | 2026-08-09 | 2 | 18 | 25 | 6 | 11 | 65 |
+| last180d | 2026-05-11 | 2 | 43 | 31 | 15 | 19 | 151 |
+| 360d | 2025-11-12 | 2 | 88 | 34 | 49 | 36 | 295 |
+| last720d | 2024-11-17 | 6 | 149 | 40 | 108 | 86 | 762 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **40** are ✅ on the latest upstream release, **169** are ⚠️ on an older version.
+Reported by **239** distros on [repology.org](https://repology.org/project/git-lfs). **42** are ✅ on the latest upstream release, **167** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:50:08Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:10:49Z._

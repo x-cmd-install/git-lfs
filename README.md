@@ -26,13 +26,13 @@ Total: **72,406** lines of code across **457** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,585 · **Forks**: 2,282 · **Open issues**: 3,274 · **Contributors**: 236
+- **Stars**: 14,586 · **Forks**: 2,282 · **Open issues**: 3,274 · **Contributors**: 236
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 4 | 16 | 1 | 5 | 22 |
-| last60d | 2026-09-10 | 1 | 7 | 20 | 2 | 10 | 36 |
-| 90d | 2026-08-11 | 2 | 17 | 25 | 6 | 11 | 61 |
-| last180d | 2026-05-13 | 2 | 43 | 30 | 15 | 19 | 149 |
-| 360d | 2025-11-14 | 2 | 87 | 34 | 48 | 35 | 293 |
-| last720d | 2024-11-19 | 6 | 147 | 40 | 108 | 85 | 750 |
+| 30d | 2026-10-11 | 1 | 4 | 15 | 1 | 5 | 22 |
+| last60d | 2026-09-11 | 1 | 7 | 20 | 2 | 10 | 36 |
+| 90d | 2026-08-12 | 2 | 17 | 24 | 6 | 11 | 61 |
+| last180d | 2026-05-14 | 2 | 43 | 30 | 15 | 19 | 149 |
+| 360d | 2025-11-15 | 2 | 87 | 34 | 48 | 35 | 293 |
+| last720d | 2024-11-20 | 6 | 147 | 40 | 108 | 84 | 748 |
 
 ## Release assets
 
@@ -90,6 +90,25 @@ Lowest-scoring checks:
 | [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/hashes.asc) | 22.7 KiB | `other` |
 | [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/sha256sums.asc) | 2.6 KiB | `other` |
 
+## Distribution status
+
+Reported by **240** distros on [repology.org](https://repology.org/project/git-lfs). **43** are ✅ on the latest upstream release, **167** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.8.1` | ✅ latest |
+| Debian 14 | `3.8.1` | ✅ latest |
+| Debian 13 | `3.6.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.7.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.4.1` | ⚠️ outdated |
+| Arch | `3.8.1` | ✅ latest |
+| Homebrew | `3.8.1` | ✅ latest |
+| Fedora rawhide | `3.7.1` | ⚠️ outdated |
+| Nix unstable | `3.8.1` | ✅ latest |
+| Void | `3.7.1` | ⚠️ outdated |
+| Alpine edge | `3.8.1` | ✅ latest |
+| openSUSE Tumbleweed | `3.8.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-lfs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:33:25Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:26:33Z._

@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,590 · **Forks**: 2,283 · **Open issues**: 3,274 · **Contributors**: 236
+- **Stars**: 14,593 · **Forks**: 2,284 · **Open issues**: 3,275 · **Contributors**: 236
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2108 · **Open PRs**: 54 · **Closed issues**: 2821 · **Open issues**: 453 · **Commits**: 9853
+- **Releases**: 97 · **Merged PRs**: 2108 · **Open PRs**: 54 · **Closed issues**: 2821 · **Open issues**: 454 · **Commits**: 9853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 4 | 15 | 1 | 5 | 22 |
-| last60d | 2026-09-13 | 1 | 7 | 20 | 2 | 10 | 36 |
-| 90d | 2026-08-14 | 2 | 17 | 21 | 6 | 11 | 61 |
-| last180d | 2026-05-16 | 2 | 43 | 30 | 15 | 19 | 149 |
-| 360d | 2025-11-17 | 2 | 87 | 34 | 47 | 35 | 293 |
-| last720d | 2024-11-22 | 5 | 147 | 40 | 108 | 84 | 747 |
+| 30d | 2026-10-14 | 1 | 4 | 15 | 1 | 5 | 22 |
+| last60d | 2026-09-14 | 1 | 7 | 20 | 2 | 11 | 36 |
+| 90d | 2026-08-15 | 2 | 17 | 20 | 6 | 12 | 61 |
+| last180d | 2026-05-17 | 2 | 43 | 30 | 15 | 20 | 149 |
+| 360d | 2025-11-18 | 2 | 87 | 34 | 47 | 36 | 293 |
+| last720d | 2024-11-23 | 5 | 147 | 40 | 108 | 85 | 747 |
 
 ## Release assets
 
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:29:26Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:55:52Z._

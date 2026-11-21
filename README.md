@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2108 · **Open PRs**: 58 · **Closed issues**: 2821 · **Open issues**: 456 · **Commits**: 9853
+- **Releases**: 97 · **Merged PRs**: 2108 · **Open PRs**: 59 · **Closed issues**: 2821 · **Open issues**: 456 · **Commits**: 9853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 1 | 17 | 1 | 6 | 9 |
-| last60d | 2026-09-21 | 1 | 6 | 23 | 1 | 11 | 30 |
-| 90d | 2026-08-22 | 2 | 17 | 24 | 4 | 14 | 57 |
-| last180d | 2026-05-24 | 2 | 42 | 34 | 15 | 22 | 145 |
-| 360d | 2025-11-25 | 2 | 86 | 38 | 47 | 37 | 284 |
-| last720d | 2024-11-30 | 5 | 145 | 44 | 105 | 85 | 737 |
+| 30d | 2026-10-22 | 1 | 0 | 15 | 1 | 6 | 9 |
+| last60d | 2026-09-22 | 1 | 6 | 24 | 1 | 11 | 30 |
+| 90d | 2026-08-23 | 2 | 17 | 25 | 4 | 14 | 57 |
+| last180d | 2026-05-25 | 2 | 42 | 35 | 15 | 22 | 145 |
+| 360d | 2025-11-26 | 2 | 85 | 39 | 47 | 37 | 284 |
+| last720d | 2024-12-01 | 5 | 145 | 45 | 105 | 85 | 737 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **231** distros on [repology.org](https://repology.org/project/git-lfs). **45** are ✅ on the latest upstream release, **158** are ⚠️ on an older version.
+Reported by **230** distros on [repology.org](https://repology.org/project/git-lfs). **45** are ✅ on the latest upstream release, **157** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -118,4 +118,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:04:47Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:26:14Z._

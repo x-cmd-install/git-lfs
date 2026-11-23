@@ -2,6 +2,18 @@
   subrepo: appstream
   srcname: git-lfs
   visiblename: git-lfs
+  version: 3.2.0
+  origversion: 3.2.0-3.el8_9
+  status: legacy
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: git-lfs
+  visiblename: git-lfs
   version: 3.4.1
   origversion: 3.4.1-2.el8_10
   status: outdated
@@ -10,38 +22,133 @@
     - MIT
   categories:
     - Unspecified
-- repo: eurolinux_9
-  subrepo: appstream
+- repo: almalinux_8
+  subrepo: AppStream
   srcname: git-lfs
-  binnames:
-    - git-lfs
-    - git-lfs-debuginfo
-    - git-lfs-debugsource
   visiblename: git-lfs
-  version: 3.2.0
-  origversion: 3.2.0-1.el9
-  status: legacy
+  version: 3.4.1
+  origversion: 3.4.1-6.el8_10
+  status: outdated
   summary: Git extension for versioning large files
+  maintainers:
+    - packager@almalinux.org
   licenses:
     - MIT
   categories:
     - Unspecified
-- repo: chocolatey
-  binname: git-lfs
-  visiblename: Git Large File Storage
-  version: 3.8.1
-  origversion: null
-  status: newest
-  summary: An open source Git extension for versioning large files
-- repo: manjaro_stable
-  subrepo: extra
+- repo: apertis_v2024
+  subrepo: v2024/development
   srcname: git-lfs
-  binname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
   visiblename: git-lfs
-  version: 3.8.0
-  origversion: 3.8.0-1
+  version: 3.3.0
+  origversion: 3.3.0-1+deb12u2+apertis0
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 3.3.0
+  origversion: 3.3.0-1+deb12u2+apertis0
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+- repo: apertis_v2026
+  subrepo: v2026/development
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 3.6.1
+  origversion: 3.6.1-1+deb13u1+apertis0
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 3.8.1
+  origversion: 3.8.1-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.4.1
+  origversion: 3.4.1-7.el8_10
   status: outdated
   summary: Git extension for versioning large files
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: nix_stable_24_11
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.6.1
+  origversion: null
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - twey@twey.co.uk
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.7.1
+  origversion: null
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - twey@twey.co.uk
+  licenses:
+    - MIT
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.4.1
+  origversion: 3.4.1-8.el8_10
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: nix_stable_25_11
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.7.1
+  origversion: null
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - twey@twey.co.uk
   licenses:
     - MIT
 - repo: aerynos
@@ -168,48 +275,6 @@
   visiblename: git-lfs
   version: 3.4.1
   origversion: 3.4.1-5.el8_10
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.4.1
-  origversion: 3.4.1-6.el8_10
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.4.1
-  origversion: 3.4.1-7.el8_10
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.4.1
-  origversion: 3.4.1-8.el8_10
   status: outdated
   summary: Git extension for versioning large files
   maintainers:
@@ -418,13 +483,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: chocolatey
-  binname: git-lfs.install
-  visiblename: Git Large File Storage (Install)
-  version: 3.8.1
-  origversion: null
-  status: newest
-  summary: An open source Git extension for versioning large files
 - repo: alpine_3_21
   subrepo: community
   srcname: git-lfs
@@ -555,15 +613,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: chromebrew
-  srcname: git_lfs
-  visiblename: git_lfs
-  version: 3.8.1
-  origversion: null
-  status: newest
-  summary: Git extension for versioning large files
-  licenses:
-    - AGPL-3
 - repo: alpine_3_23
   subrepo: community
   srcname: git-lfs
@@ -694,18 +743,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.4.1
-  origversion: 3.4.1-3.el8_10
-  status: outdated
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: alpine_edge
   subrepo: community
   srcname: git-lfs
@@ -808,52 +845,13 @@
   binname: git-lfs
   visiblename: git-lfs
   version: 3.6.1
-  origversion: 3.6.1-8
+  origversion: 3.6.1-9
   status: outdated
   summary: Git extension for versioning large files
   maintainers:
     - fallback-mnt-aosc@repology
   categories:
     - devel
-- repo: apertis_v2024
-  subrepo: v2024/development
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 3.3.0
-  origversion: 3.3.0-1+deb12u2+apertis0
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-- repo: apertis_v2025
-  subrepo: v2025/development
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 3.3.0
-  origversion: 3.3.0-1+deb12u2+apertis0
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-- repo: apertis_v2026
-  subrepo: v2026/development
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 3.6.1
-  origversion: 3.6.1-1+deb13u1+apertis0
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
 - repo: apertis_v2027
   subrepo: v2027dev1/development
   srcname: git-lfs
@@ -867,17 +865,6 @@
   maintainers:
     - team+pkg-go@tracker.debian.org
     - ssgelm@debian.org
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: git-lfs
-  binname: git-lfs
-  visiblename: git-lfs
-  version: 3.8.1
-  origversion: 3.8.1-1
-  status: newest
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: git-lfs
@@ -1178,6 +1165,22 @@
   summary: Git extension for versioning large files (fish completions)
   licenses:
     - MIT
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+  visiblename: git-lfs
+  version: 3.7.1
+  origversion: 3.7.1-1
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
 - repo: chimera
   subrepo: user
   srcname: git-lfs
@@ -1200,21 +1203,29 @@
   summary: Git extension for versioning large files (zsh completions)
   licenses:
     - MIT
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 3.3.0
-  origversion: 3.3.0-1+deb12u1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-  categories:
-    - misc
+- repo: chocolatey
+  binname: git-lfs
+  visiblename: Git Large File Storage
+  version: 3.8.1
+  origversion: null
+  status: newest
+  summary: An open source Git extension for versioning large files
+- repo: chocolatey
+  binname: git-lfs.install
+  visiblename: Git Large File Storage (Install)
+  version: 3.8.1
+  origversion: null
+  status: newest
+  summary: An open source Git extension for versioning large files
+- repo: chromebrew
+  srcname: git_lfs
+  visiblename: git_lfs
+  version: 3.8.1
+  origversion: null
+  status: newest
+  summary: Git extension for versioning large files
+  licenses:
+    - AGPL-3
 - repo: debian_12
   subrepo: bookworm-security/main
   srcname: git-lfs
@@ -1224,6 +1235,21 @@
   visiblename: git-lfs
   version: 3.3.0
   origversion: 3.3.0-1+deb12u2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 3.3.0
+  origversion: 3.3.0-1+deb12u1
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
@@ -1303,27 +1329,28 @@
   maintainers:
     - team+pkg-go@tracker.debian.org
     - ssgelm@debian.org
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 3.8.1
-  origversion: 3.8.1-2
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-  categories:
-    - misc
 - repo: eurolinux_8
   subrepo: appstream
   srcname: git-lfs
   visiblename: git-lfs
+  version: 3.4.1
+  origversion: 3.4.1-3.el8_10
+  status: outdated
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: eurolinux_9
+  subrepo: appstream
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - git-lfs-debuginfo
+    - git-lfs-debugsource
+  visiblename: git-lfs
   version: 3.2.0
-  origversion: 3.2.0-3.el8_9
+  origversion: 3.2.0-1.el9
   status: legacy
   summary: Git extension for versioning large files
   licenses:
@@ -1514,6 +1541,21 @@
   categories:
     - Unspecified
 - repo: fedora_42
+  subrepo: release
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-3-devel
+  visiblename: git-lfs
+  version: 3.6.1
+  origversion: 3.6.1-1.fc42
+  status: legacy
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT AND BSD-3-Clause
+  categories:
+    - Unspecified
+- repo: fedora_42
   subrepo: updates
   srcname: git-lfs
   binnames:
@@ -1527,21 +1569,6 @@
   summary: Git extension for versioning large files
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_42
-  subrepo: release
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-3-devel
-  visiblename: git-lfs
-  version: 3.6.1
-  origversion: 3.6.1-1.fc42
-  status: legacy
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT AND BSD-3-Clause
   categories:
     - Unspecified
 - repo: fedora_43
@@ -1577,22 +1604,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - git-lfs-debuginfo
-    - git-lfs-debugsource
-  visiblename: git-lfs
-  version: 3.7.1
-  origversion: 3.7.1-4.fc44
-  status: outdated
-  summary: Git extension for versioning large files
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: git-lfs
   binnames:
@@ -1602,6 +1613,22 @@
   visiblename: git-lfs
   version: 3.7.1
   origversion: 3.7.1-6.fc44
+  status: outdated
+  summary: Git extension for versioning large files
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - git-lfs-debuginfo
+    - git-lfs-debugsource
+  visiblename: git-lfs
+  version: 3.7.1
+  origversion: 3.7.1-4.fc44
   status: outdated
   summary: Git extension for versioning large files
   licenses:
@@ -1705,17 +1732,6 @@
   origversion: null
   status: newest
   summary: Git extension for versioning large files
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: git-lfs
-  binname: git-lfs
-  visiblename: git-lfs
-  version: 3.8.1
-  origversion: 3.8.1-1
-  status: newest
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT
 - repo: kali_rolling
   subrepo: main
   srcname: git-lfs
@@ -1875,6 +1891,17 @@
     - MIT
   categories:
     - Development/Tools
+- repo: parabola
+  subrepo: extra
+  srcname: git-lfs
+  binname: git-lfs
+  visiblename: git-lfs
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: newest
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
 - repo: mageia_cauldron
   subrepo: core/release
   srcname: git-lfs
@@ -1890,6 +1917,39 @@
     - MIT
   categories:
     - Development/Tools
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: git-lfs
+  binname: git-lfs
+  visiblename: git-lfs
+  version: 3.8.0
+  origversion: 3.8.0-1
+  status: outdated
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: git-lfs
+  binname: git-lfs
+  visiblename: git-lfs
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: newest
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: git-lfs
+  binname: git-lfs
+  visiblename: git-lfs
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: newest
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-git-lfs
   binname: mingw-w64-clang-x86_64-git-lfs
@@ -1935,39 +1995,6 @@
   srcname: git-lfs
   visiblename: git-lfs
   version: 3.5.1
-  origversion: null
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - twey@twey.co.uk
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.6.1
-  origversion: null
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - twey@twey.co.uk
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.7.1
-  origversion: null
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - twey@twey.co.uk
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.7.1
   origversion: null
   status: outdated
   summary: Git extension for versioning large files
@@ -2101,6 +2128,18 @@
   categories:
     - Development/Tools/Version Control
 - repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.4.0
+  origversion: 3.4.0-bp156.1.14
+  status: legacy
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools/Version Control
+- repo: opensuse_leap_15_6
   subrepo: updates/backports
   srcname: git-lfs
   visiblename: git-lfs
@@ -2119,18 +2158,6 @@
   version: 3.7.0
   origversion: 3.7.0-150600.13.3.1
   status: outdated
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools/Version Control
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.4.0
-  origversion: 3.4.0-bp156.1.14
-  status: legacy
   summary: Git extension for versioning large files
   licenses:
     - MIT
@@ -2164,17 +2191,6 @@
     - jan.pavlinec1@gmail.com
   categories:
     - net
-- repo: parabola
-  subrepo: extra
-  srcname: git-lfs
-  binname: git-lfs
-  visiblename: git-lfs
-  version: 3.8.1
-  origversion: 3.8.1-1
-  status: newest
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT
 - repo: parrot
   subrepo: parrot/main
   srcname: git-lfs
@@ -2307,6 +2323,38 @@
     - ssgelm@debian.org
   categories:
     - misc
+- repo: rocky_8
+  subrepo: AppStream
+  srcname: git-lfs
+  visiblename: git-lfs
+  version: 3.4.1
+  origversion: 3.4.1-8.el8_10
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - infrastructure@rockylinux.org
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: rocky_9
+  subrepo: AppStream
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - git-lfs-debuginfo
+    - git-lfs-debugsource
+  visiblename: git-lfs
+  version: 3.7.1
+  origversion: 3.7.1-6.el9
+  status: outdated
+  summary: Git extension for versioning large files
+  maintainers:
+    - releng@rockylinux.org
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: ravenports
   srcname: git-lfs
   binname: git-lfs
@@ -2459,38 +2507,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: rocky_8
-  subrepo: AppStream
-  srcname: git-lfs
-  visiblename: git-lfs
-  version: 3.4.1
-  origversion: 3.4.1-8.el8_10
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - infrastructure@rockylinux.org
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: rocky_9
-  subrepo: AppStream
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - git-lfs-debuginfo
-    - git-lfs-debugsource
-  visiblename: git-lfs
-  version: 3.7.1
-  origversion: 3.7.1-6.el9
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - releng@rockylinux.org
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: git-lfs
@@ -2503,22 +2519,6 @@
   summary: Git extension for versioning large files
   maintainers:
     - m.novosyolov@rosalinux.ru
-  licenses:
-    - MIT
-  categories:
-    - Development/Other
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-  visiblename: git-lfs
-  version: 3.7.1
-  origversion: 3.7.1-1
-  status: outdated
-  summary: Git extension for versioning large files
-  maintainers:
-    - a.proklov@rosa.ru
   licenses:
     - MIT
   categories:
@@ -2546,9 +2546,9 @@
   srcname: git-lfs
   binname: git-lfs
   visiblename: git-lfs
-  version: 3.8.0
+  version: 3.8.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Git extension for versioning large files
   maintainers:
     - silke@slxh.eu
@@ -2560,9 +2560,9 @@
   srcname: git-lfs
   binname: git-lfs-dbginfo
   visiblename: git-lfs-dbginfo
-  version: 3.8.0
+  version: 3.8.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Debug symbols for git-lfs
   maintainers:
     - silke@slxh.eu
@@ -2650,21 +2650,6 @@
   categories:
     - Unspecified
 - repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 3.4.1
-  origversion: 3.4.1-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble-updates/universe
   srcname: git-lfs
   binnames:
@@ -2679,23 +2664,23 @@
     - ssgelm@debian.org
   categories:
     - universe/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
+- repo: ubuntu_24_04
+  subrepo: noble/universe
   srcname: git-lfs
   binnames:
     - git-lfs
     - golang-github-git-lfs-git-lfs-dev
   visiblename: git-lfs
-  version: 3.6.1
-  origversion: 3.6.1-1
+  version: 3.4.1
+  origversion: 3.4.1-1
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
     - ssgelm@debian.org
   categories:
     - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
   srcname: git-lfs
   binnames:
     - git-lfs
@@ -2721,6 +2706,21 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - ssgelm@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 3.6.1
+  origversion: 3.6.1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
     - ssgelm@debian.org
   categories:
     - universe/misc
@@ -2807,33 +2807,12 @@
   summary: Git extension for versioning large files
   maintainers:
     - wonkru-dev@proton.me
-- repo: eurolinux_9
+- repo: eurolinux_8
   subrepo: appstream
   srcname: git-lfs
-  binnames:
-    - git-lfs
-    - git-lfs-debuginfo
-    - git-lfs-debugsource
   visiblename: git-lfs
   version: 2.13.3
-  origversion: 2.13.3-4.el9
-  status: legacy
-  summary: Git extension for versioning large files
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: eurolinux_9
-  subrepo: appstream
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - git-lfs-debuginfo
-    - git-lfs-debugsource
-  visiblename: git-lfs
-  version: 2.13.3
-  origversion: 2.13.3-5.el9_0
+  origversion: 2.13.3-3.el8_6
   status: legacy
   summary: Git extension for versioning large files
   licenses:
@@ -2931,22 +2910,6 @@
     - Unspecified
   vulnerable: true
 - repo: debian_11
-  subrepo: bullseye-security/main
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 2.13.2
-  origversion: 2.13.2-1+deb11u2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-  categories:
-    - misc
-  vulnerable: true
-- repo: debian_11
   subrepo: bullseye/main
   srcname: git-lfs
   binnames:
@@ -2955,6 +2918,22 @@
   visiblename: git-lfs
   version: 2.13.2
   origversion: 2.13.2-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: debian_11
+  subrepo: bullseye-security/main
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 2.13.2
+  origversion: 2.13.2-1+deb11u2
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org
@@ -3016,12 +2995,33 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: eurolinux_8
+- repo: eurolinux_9
   subrepo: appstream
   srcname: git-lfs
+  binnames:
+    - git-lfs
+    - git-lfs-debuginfo
+    - git-lfs-debugsource
   visiblename: git-lfs
   version: 2.13.3
-  origversion: 2.13.3-3.el8_6
+  origversion: 2.13.3-4.el9
+  status: legacy
+  summary: Git extension for versioning large files
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: eurolinux_9
+  subrepo: appstream
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - git-lfs-debuginfo
+    - git-lfs-debugsource
+  visiblename: git-lfs
+  version: 2.13.3
+  origversion: 2.13.3-5.el9_0
   status: legacy
   summary: Git extension for versioning large files
   licenses:
@@ -3046,22 +3046,6 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: pardus_21
-  subrepo: main
-  srcname: git-lfs
-  binnames:
-    - git-lfs
-    - golang-github-git-lfs-git-lfs-dev
-  visiblename: git-lfs
-  version: 2.13.2
-  origversion: 2.13.2-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - ssgelm@debian.org
-  categories:
-    - misc
-  vulnerable: true
 - repo: openwrt_23_05_x86_64
   subrepo: packages
   srcname: feeds/packages/net/git-lfs
@@ -3084,6 +3068,22 @@
   visiblename: git-lfs
   version: 2.13.2
   origversion: 2.13.2-1+deb11u2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - ssgelm@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: pardus_21
+  subrepo: main
+  srcname: git-lfs
+  binnames:
+    - git-lfs
+    - golang-github-git-lfs-git-lfs-dev
+  visiblename: git-lfs
+  version: 2.13.2
+  origversion: 2.13.2-1
   status: outdated
   maintainers:
     - team+pkg-go@tracker.debian.org

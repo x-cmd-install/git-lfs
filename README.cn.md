@@ -48,22 +48,22 @@ x install git-lfs
 
 ## 流行度
 
-- **Star**: 14,617 · **Fork**: 2,291 · **开放 issue**: 3,277 · **贡献者**: 237
+- **Star**: 14,621 · **Fork**: 2,292 · **开放 issue**: 3,277 · **贡献者**: 237
 
 ## 累计统计
 
-- **发布数**: 97 · **已合并 PR**: 2110 · **开放 PR**: 62 · **已关闭 issue**: 2821 · **开放 issue**: 456 · **提交数**: 9859
+- **发布数**: 97 · **已合并 PR**: 2110 · **开放 PR**: 64 · **已关闭 issue**: 2821 · **开放 issue**: 456 · **提交数**: 9859
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 2 | 15 | 0 | 6 | 11 |
-| last60d | 2026-09-25 | 1 | 8 | 27 | 1 | 11 | 31 |
-| 90d | 2026-08-26 | 2 | 15 | 28 | 4 | 14 | 51 |
-| last180d | 2026-05-28 | 2 | 44 | 37 | 14 | 22 | 143 |
-| 360d | 2025-11-29 | 2 | 86 | 42 | 47 | 37 | 284 |
-| last720d | 2024-12-04 | 5 | 147 | 48 | 105 | 85 | 736 |
+| 30d | 2026-10-26 | 0 | 2 | 17 | 0 | 5 | 11 |
+| last60d | 2026-09-26 | 1 | 8 | 29 | 1 | 11 | 31 |
+| 90d | 2026-08-27 | 2 | 14 | 30 | 3 | 14 | 51 |
+| last180d | 2026-05-29 | 2 | 44 | 39 | 14 | 22 | 143 |
+| 360d | 2025-11-30 | 2 | 86 | 44 | 47 | 37 | 284 |
+| last720d | 2024-12-05 | 5 | 147 | 50 | 105 | 85 | 736 |
 
 ## Release 资产
 
@@ -90,25 +90,6 @@ x install git-lfs
 | [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/hashes.asc) | 22.7 KiB | `other` |
 | [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/sha256sums.asc) | 2.6 KiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/git-lfs) 上共有 **232** 个发行版报告此项目。**48** 个 ✅ 已是最新上游版本，**156** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `3.8.1` | ✅ latest |
-| Debian 14 | `3.8.1` | ✅ latest |
-| Debian 13 | `3.6.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.7.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.4.1` | ⚠️ outdated |
-| Arch | `3.8.1` | ✅ latest |
-| Homebrew | `3.8.1` | ✅ latest |
-| Fedora rawhide | `3.7.1` | ⚠️ outdated |
-| Nix unstable | `3.8.1` | ✅ latest |
-| Void | `3.7.1` | ⚠️ outdated |
-| Alpine edge | `3.8.1` | ✅ latest |
-| openSUSE Tumbleweed | `3.8.1` | ✅ latest |
-
 ## 改进这些数据
 
 git-lfs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `git-lfs` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -118,4 +99,4 @@ git-lfs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:58:47Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:26:49Z._

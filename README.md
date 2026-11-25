@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 14,617 · **Forks**: 2,291 · **Open issues**: 3,277 · **Contributors**: 237
+- **Stars**: 14,621 · **Forks**: 2,292 · **Open issues**: 3,277 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2110 · **Open PRs**: 62 · **Closed issues**: 2821 · **Open issues**: 456 · **Commits**: 9859
+- **Releases**: 97 · **Merged PRs**: 2110 · **Open PRs**: 64 · **Closed issues**: 2821 · **Open issues**: 456 · **Commits**: 9859
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 2 | 15 | 0 | 6 | 11 |
-| last60d | 2026-09-25 | 1 | 8 | 27 | 1 | 11 | 31 |
-| 90d | 2026-08-26 | 2 | 15 | 28 | 4 | 14 | 51 |
-| last180d | 2026-05-28 | 2 | 44 | 37 | 14 | 22 | 143 |
-| 360d | 2025-11-29 | 2 | 86 | 42 | 47 | 37 | 284 |
-| last720d | 2024-12-04 | 5 | 147 | 48 | 105 | 85 | 736 |
+| 30d | 2026-10-26 | 0 | 2 | 17 | 0 | 5 | 11 |
+| last60d | 2026-09-26 | 1 | 8 | 29 | 1 | 11 | 31 |
+| 90d | 2026-08-27 | 2 | 14 | 30 | 3 | 14 | 51 |
+| last180d | 2026-05-29 | 2 | 44 | 39 | 14 | 22 | 143 |
+| 360d | 2025-11-30 | 2 | 86 | 44 | 47 | 37 | 284 |
+| last720d | 2024-12-05 | 5 | 147 | 50 | 105 | 85 | 736 |
 
 ## Release assets
 
@@ -90,25 +90,6 @@ Lowest-scoring checks:
 | [hashes.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/hashes.asc) | 22.7 KiB | `other` |
 | [sha256sums.asc](https://github.com/git-lfs/git-lfs/releases/download/v3.8.1/sha256sums.asc) | 2.6 KiB | `other` |
 
-## Distribution status
-
-Reported by **232** distros on [repology.org](https://repology.org/project/git-lfs). **48** are ✅ on the latest upstream release, **156** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.8.1` | ✅ latest |
-| Debian 14 | `3.8.1` | ✅ latest |
-| Debian 13 | `3.6.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.7.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.4.1` | ⚠️ outdated |
-| Arch | `3.8.1` | ✅ latest |
-| Homebrew | `3.8.1` | ✅ latest |
-| Fedora rawhide | `3.7.1` | ⚠️ outdated |
-| Nix unstable | `3.8.1` | ✅ latest |
-| Void | `3.7.1` | ⚠️ outdated |
-| Alpine edge | `3.8.1` | ✅ latest |
-| openSUSE Tumbleweed | `3.8.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-lfs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -118,4 +99,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:58:46Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:26:48Z._

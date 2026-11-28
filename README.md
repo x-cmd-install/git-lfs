@@ -14,7 +14,7 @@ x install git-lfs
 
 ## Code insight
 
-Total: **72,406** lines of code across **457** files in the top 5 languages.
+Total: **72,410** lines of code across **457** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.8.1` (2026-10-22)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-27
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 14,626 · **Forks**: 2,291 · **Open issues**: 3,277 · **Contributors**: 237
+- **Stars**: 14,629 · **Forks**: 2,292 · **Open issues**: 3,277 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 2110 · **Open PRs**: 67 · **Closed issues**: 2821 · **Open issues**: 456 · **Commits**: 9859
+- **Releases**: 97 · **Merged PRs**: 2112 · **Open PRs**: 65 · **Closed issues**: 2821 · **Open issues**: 456 · **Commits**: 9866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 2 | 21 | 0 | 5 | 11 |
-| last60d | 2026-09-28 | 1 | 8 | 33 | 1 | 10 | 31 |
-| 90d | 2026-08-29 | 1 | 13 | 34 | 3 | 13 | 51 |
-| last180d | 2026-05-31 | 2 | 44 | 43 | 14 | 22 | 143 |
-| 360d | 2025-12-02 | 2 | 84 | 47 | 47 | 37 | 284 |
-| last720d | 2024-12-07 | 5 | 146 | 53 | 103 | 85 | 736 |
+| 30d | 2026-10-29 | 0 | 4 | 17 | 0 | 5 | 15 |
+| last60d | 2026-09-29 | 1 | 10 | 31 | 1 | 10 | 35 |
+| 90d | 2026-08-30 | 1 | 15 | 32 | 3 | 13 | 55 |
+| last180d | 2026-06-01 | 2 | 45 | 41 | 14 | 22 | 147 |
+| 360d | 2025-12-03 | 2 | 86 | 45 | 46 | 37 | 288 |
+| last720d | 2024-12-08 | 5 | 148 | 51 | 103 | 85 | 741 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for git-lfs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:47:58Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:58:08Z._
